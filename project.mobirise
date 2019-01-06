@@ -443,7 +443,7 @@
             }
           },
           "text1": "<strong>Adresse</strong><br>7 louise thuilliez<br>75019 paris<br><br><br>\n<strong>Contacts</strong><br>tel.:+33-6-64431294",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://airbnb.com\" target=\"_blank\">airbnb</a></li><li><a href=\"http://www.booking.com\">booking</a></li><li><a href=\"http://www.trivago.com\" target=\"_blank\">trivago</a></li><li><a href=\"mailto:sabrina.chikly@hotmail.fr\">reservez maintenant</a></li><li><a href=\"tel:+33-1-42424242\"><b>nous appeler</b></a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://airbnb.com\" target=\"_blank\">airbnb</a></li><li><a href=\"http://www.booking.com\">booking</a></li><li><a href=\"http://www.trivago.com\" target=\"_blank\">trivago</a></li><li><a href=\"mailto:sabrina.chikly@hotmail.fr\">reservez maintenant</a></li><li><a href=\"tel:+33-1-42424242\">nous appeler</a></li></ul>"
         },
         {
           "_inherit": "social-buttons1",
