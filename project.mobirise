@@ -49,26 +49,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "7",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "title": "UN BIJOU AU COEUR DE PARIS",
-          "meta": "LA PLACE DES FETES ET PARIS A VOS PIEDS !",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-i"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -163,6 +143,26 @@
           },
           "_anchor": "slider3-2",
           "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "UN BIJOU AU COEUR DE PARIS",
+          "meta": "LA PLACE DES FETES ET PARIS A VOS PIEDS !",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i"
         },
         {
           "_styles": {
