@@ -94,14 +94,14 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel;+972585101081\" data-toolbar=\"-mbrBtnMove\">plus d'infos</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/index-289x175.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/00417ce6-800x533.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
                 "overlayOpacity": "0.3",
                 "overlayColor": "#efefef",
-                "contentAlign": "left",
+                "contentAlign": "right",
                 "showTitle": true,
                 "title": "LE METRO <br>A 20 METRES",
                 "showText": false,
@@ -125,7 +125,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"tel;+972585101081\" data-toolbar=\"-mbrBtnMove\">plus d'infos</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/800px-mairie-de-paris-i-800x600.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
