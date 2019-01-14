@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.10.2",
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.8.10",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -411,6 +411,173 @@
           }
         },
         {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "CHAMBRES",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0004-1-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0004-1-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "CHAMBRES",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0005-1-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0005-1-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "SALLE DE BAINS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0006-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0006-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "SALLE DE BAINS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0009-1-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0009-1-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ENTREE",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0020-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0020-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ENTREE",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0019-1-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0019-1-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "CUISINE",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0021-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0021-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "CUISINE",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0012-1-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0012-1-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "SALON",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0017-1-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0017-1-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "SALON",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0016-1-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0016-1-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "VUE PARIS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0015-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0015-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "VUE PARIS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20190114-wa0013-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190114-wa0013-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Thème"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-j"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -518,8 +685,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
             "facebook": true,
-            "twitter": false,
-            "google": true,
+            "twitter": true,
+            "google": false,
             "vkontakte": false,
             "odnoklassniki": false
           },
