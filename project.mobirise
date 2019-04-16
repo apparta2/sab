@@ -258,7 +258,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PLACE DES FETES</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-a\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-2\">PRESENTATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-j\">INTERIEURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-a\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-2\">PRESENTATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-j\">INTERIEURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">RESERVER ENLIGNE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_params": {
@@ -597,7 +597,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/3ad1e566-3146-471a-9b0a-38866f15800d-rw-1920-1707x12802.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3ad1e566-3146-471a-9b0a-38866f15800d-rw-1920-1707x12803.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -608,7 +608,7 @@
           "title": "Contactez Nous",
           "subtitle": "",
           "form": {
-            "action": "guchik178@gmail.com",
+            "action": "sabrinachikly@gmail.com",
             "alerts": {
               "success": "MERCI ET A BIENTOT"
             },
@@ -630,7 +630,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "MESSAGE"
+                "customTitle": "Votre Message -- Si vous souhaitez reservez , n'oubliez pas de mentionner les dates d'arrivée et de départ.Nous vous rappelons très bientot"
               }
             }
           },
@@ -661,7 +661,7 @@
             }
           },
           "text1": "<strong>Adresse</strong><br>7 louise thuilliez<br>75019 paris<br><br><br>\n<strong>Contacts</strong><br>tel.:+33-6-64431294",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://airbnb.com\" target=\"_blank\">Airbnb</a></li><li><a href=\"http://www.booking.com\">Bookin.com.</a></li><li><a href=\"http://www.trivago.com\" target=\"_blank\">Trivago</a></li><li><a href=\"mailto:sabrina.chikly@hotmail.fr\">Réservez maintenant</a></li><li><a href=\"tel:+33-1-42424242\">Nous appeler</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"mailto:sabrinachikly@gmail.com\">Links</a></strong></p><ul><li><a href=\"mailto:sabrinachikly@gmail.com\">Airbnb</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Bookin.com.</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Trivago</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Réservez maintenant</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Nous appeler</a></li></ul>"
         },
         {
           "_inherit": "social-buttons2",
