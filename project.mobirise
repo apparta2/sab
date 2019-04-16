@@ -597,7 +597,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/3ad1e566-3146-471a-9b0a-38866f15800d-rw-1920-1707x12803.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3ad1e566-3146-471a-9b0a-38866f15800d-rw-1920-1707x12804.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -660,8 +660,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adresse</strong><br>7 louise thuilliez<br>75019 paris<br><br><br>\n<strong>Contacts</strong><br>tel.:+33-6-64431294",
-          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"mailto:sabrinachikly@gmail.com\">Links</a></strong></p><ul><li><a href=\"mailto:sabrinachikly@gmail.com\">Airbnb</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Bookin.com.</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Trivago</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Réservez maintenant</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Nous appeler</a></li></ul>"
+          "text1": "<strong>Adresse</strong><br>7 louise thuilliez<br>75019 paris<br><br><br>\n<strong>Contacts</strong><br>tel.:+33-6-64431294<br><br>email : paris19place@gmail.com<br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"mailto:sabrinachikly@gmail.com\">Links</a></strong></p><ul><li><a href=\"mailto:sabrinachikly@gmail.com\">Airbnb</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Bookin.com.</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Trivago</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Réservez maintenant</a></li><li><a href=\"tel:+33-6-64431294\">Nous appeler</a></li></ul>"
         },
         {
           "_inherit": "social-buttons2",
