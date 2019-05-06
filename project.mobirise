@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -27,7 +27,7 @@
     },
     "versionFirst": "3.10.2",
     "uniqCompNum": 22,
-    "versionPublish": "4.9.6",
+    "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "favicon": "",
@@ -45,8 +45,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "UN BIJOU AU COEUR DE PARIS LA PLACE DES FETES A VOS PIEDS !",
+        "meta_descr": "UN BIJOU AU COEUR DE PARIS\nLA PLACE DES FETES ET PARIS A VOS PIEDS !\nSITUE AU COEUR D'UN QUATIER TYPIQUE ET \nAUTHENTIQUE DE PARIS\nSUR LA PLACE DES FETES\nAVEC TOUTES LES COMMODITES\nMETRO BUS TAXIS\nCOMMERCES DE PROXIMITE\nMONOPRIX ET PHARMACIE\n\nPARKING VOITURE\n\n\nAPPARTEMENT DE 3 PIECES 85 M2\n\nENTIEREMENT REFAIT A NEUF\nLUXUEUX\n\nCUISINE HAUT DE GAMME EQUIPEE\nSQLLE A MANGER AVEC ILOT\nSALLE DE DOUCHE \nTV GRAND ECRAN  400 CHAINES\nWIFI FIBRE",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -597,7 +597,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/3ad1e566-3146-471a-9b0a-38866f15800d-rw-1920-1707x12801.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3ad1e566-3146-471a-9b0a-38866f15800d-rw-1920-1707x12802.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -686,7 +686,7 @@
             "Thème"
           ],
           "text": "PARTAGER",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-k"
         },
